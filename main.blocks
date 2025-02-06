@@ -1,13 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="_RyR9B3{{HNJ}Cu2ylIv" x="0" y="0"></block><block type="device_forever" id="4pn{T~#IJn@|?0=8?XhT" x="117" y="234"><statement name="HANDLER"><block type="device_show_leds" id="dQ5CMaa8dnewVtkH675w"><field name="LEDS">`
-        . # . # . 
-        # # # # # 
-        # # # # # 
-        . # # # . 
-        . . # . .
-        `</field><next><block type="device_show_leds" id="6P:ly@/4%S:buZn[2bWF"><field name="LEDS">`
-        . . . . . 
-        . # . # . 
-        . # # # . 
-        . . # . . 
-        . . . . .
-        `</field></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="_RyR9B3{{HNJ}Cu2ylIv" x="0" y="0"></block><block type="device_forever" id="^wNk34Eouo:pZti^:2!)" x="337" y="293"><statement name="HANDLER"><block type="device_print_message" id="MiC2JW;F7Qw].[Gf-?nC"><value name="text"><shadow type="text" id="~.3%t1$|N+*H;4!F`W$]"><field name="TEXT">Pauline</field></shadow></value></block></statement></block></xml>
